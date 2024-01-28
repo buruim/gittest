@@ -6,5 +6,5 @@ a, b = map(int, input.split())
 
 # 출력
 print(add(a,b))
-print()
+print(div(a,b))
 
