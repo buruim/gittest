@@ -5,6 +5,6 @@ from division import div
 a, b = map(int, input.split())
 
 # 출력
-print()
+print(add(a,b))
 print(div(a,b))
 
